@@ -25,4 +25,4 @@ obs: o github não me permite upar arquivos maiores que 25MB, então o arquivo r
 Aqui vocês deve salvar os arquivos obtidos através do link do kaggle que já estão subdivididos em treino e teste. Mantenha a estrutura original.
 https://www.kaggle.com/datasets/msambare/fer2013
 
-obs: os arquivos foto (x).jpg da pasta Capturas não serão fornecidos por serem pessoais, mas nessa pasta você pode adicionar os arquivos que quiser para quye a rede faça o reconhecimento.
+obs: os arquivos foto (x).jpg da pasta Capturas não serão fornecidos por serem pessoais, mas nessa pasta você pode adicionar os arquivos que quiser para que a rede faça o reconhecimento.
