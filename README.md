@@ -1,4 +1,4 @@
-# FER2013
+# FER (Facial Expression Recognition 2013 Dataset)
 Identificador de explessões faciais implementado em rede neural convolucional.
 
 Base de dados obtida em:
