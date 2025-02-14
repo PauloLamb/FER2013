@@ -1,5 +1,5 @@
 # FER (Facial Expression Recognition)
-Identificador de explessões faciais implementado em rede neural convolucional.
+Identificador de expressões faciais implementado em rede neural convolucional.
 
 Trabalho de concusão pós graduação.
 
